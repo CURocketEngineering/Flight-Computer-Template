@@ -1,4 +1,4 @@
-# MARTHA-1.4
-fill in later
-~~still working on importing 1.3~~ 
-work on redoing code to be compatible with new Martha
+# Flight Computer Template (FTC)
+The Flight Computer Template (FTC) is meant to be a simplified version of the much beloved [MARTHA 1.4](https://github.com/CURocketEngineering/MARTHA-1.4) and [JEM 1.0](https://github.com/CURocketEngineering/JEM-1.0), which happens to be the intial source of FTC, that allows software engineers to springboard their rocketry software for certifications computers, Clemson Tiger Takeoff (TTO), and personal projects. Implemented with [platform.io](https://platformio.org/), the FTC is able to store all of your required sensors, microcontrollers, and other programmable in a constantly updated form. In addition to this, the FTC is able to call upon the functions from the [Avionics](https://github.com/CURocketEngineering/Avionics) repository, which allows many useful additions and unique ways of data gathering.
+
+[INCLUDE METHODS TO USING THE FTC IN PRACTICE]
