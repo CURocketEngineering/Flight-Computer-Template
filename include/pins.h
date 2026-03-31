@@ -9,6 +9,9 @@
 #define SENSOR_MOSI_1 PA7 
 #define SENSOR_SCK_1 PA5
 
+// Note for Users of FTC
+// Chances are you will have to edit these pins if you are not using the STM32F103CB microcontroller
+
 // Second SPI: used for sensors MS5607, BMI, and KX
 #define SENSOR_MISO_2 PC_11
 #define SENSOR_MOSI_2 PC_12
