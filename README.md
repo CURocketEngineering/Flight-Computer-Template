@@ -55,3 +55,8 @@ Our [Guide Repo](https://github.com/CURocketEngineering/Guide/blob/master/pio_en
 
 The [MARTHA 1.4](https://github.com/CURocketEngineering/MARTHA-1.4) project utilizes the same setup as the FTC, you can reference it for examples of Avionics usage. 
 
+# Developing your Flight Computer
+
+Most of the code you'll need to write will be in the `src/main.cpp` file.
+You can also add additional .cpp files to src and headers to include for organization. For example, we put a `include/pins.h` file in the template to store all of our pin definitions. 
+You can also add additional libraries to the `platformio.ini` file, and include them in your code.

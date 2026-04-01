@@ -1,6 +1,6 @@
 #include <Arduino.h> 
 
-#include "pins.h" // From the include folder
+#include "pins.h" // From the include folder, gives us the DEBUG_LED_PIN
 
 // Example of including a header from our Avionics library
 #include "state_estimation/States.h"  // From lib/Avionics/include/state_estimation/States.h
