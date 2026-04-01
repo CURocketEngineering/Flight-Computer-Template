@@ -26,7 +26,8 @@ Now that you have a repo, we need to clone it locally and set up your workspace.
 
 ## Cloning and initializing the repo
 
-1. Clone your repo by heading to your repo on GitHub and clicking the green "Code" button, then copying the URL. ![Cloning the repo](assets/get_clone_repo_url.png)
+1. Clone your repo by heading to your repo on GitHub and clicking the green "Code" button, then copying the URL.
+![Cloning the repo](assets/get_clone_repo_url.png)
 2. In the terminal of your choice, navigate to the directory you want to clone the repo in and type `git clone <paste the URL here>`. This will create a local copy of the repo on your computer.
 3. Open the cloned repo in VS Code by typing `code <repo name>` in the terminal. This will open the repo in VS Code.
 4. If PlatformIO is installed, it should automatically detect the `platformio.ini` file and begin initializing the workspace. This may take a few minutes as it downloads the necessary libraries and toolchains.
